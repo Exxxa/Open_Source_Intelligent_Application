@@ -1,0 +1,23 @@
+# Core dependencies
+kivy
+
+# Data processing and analysis
+pandas
+numpy
+networkx  # For relationship mapping
+matplotlib
+plotly  # For interactive visualizations
+
+# API and data fetching
+requests
+aiohttp  # For async API calls
+beautifulsoup4  # For web scraping if needed
+
+# Database
+sqlalchemy  # For local data storage
+python-dotenv # For environment variables
+
+# Development tools
+black  # Code formatting
+flake8  # Code linting
+isort  # Import sorting
