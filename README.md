@@ -76,3 +76,4 @@ The application integrates with the following APIs:
 ## Team Members and Roles
 
 Pierre LOPEZ
+Thailer Simmons
