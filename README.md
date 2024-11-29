@@ -42,7 +42,12 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
+4. Install ollama
+   go to https://ollama.com/ and install to appropriate OS
+   when done installing run this command in terminal:
+   ```bash
+   ollama run llama3.2
+   ```
 ## Project Structure
 
 ```
