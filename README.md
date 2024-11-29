@@ -90,3 +90,5 @@ The application integrates with the following APIs:
 - Trent Kauflin
 - Jorge Martinez JR
 - Rabia Ahmed
+- Joseph Barron
+- Michal Pruszynski
