@@ -88,3 +88,4 @@ The application integrates with the following APIs:
 - Thailer Simmons
 - Abel Castilla
 - Trent Kauflin
+- Jorge Martinez JR
