@@ -73,13 +73,18 @@ OPEN_SOURCE_INTELLIGENT_APPLICATION/
 
 The application integrates with the following APIs:
 
-1. [First API Name] - Description
-2. [Second API Name] - Description
-3. [Third API Name] - Description
-4. [Fourth API Name] - Description
+1. [Twttr API] - "A powerful Twttr API with endpoints to help you access valuable Twttr data."
+   - https://rapidapi.com/davethebeast/api/twitter241/playground/apiendpoint_eab00723-ecc9-4fd0-994e-698d471075e5
+2. [Instagram Scraper API] - "The most stable and fastest Instagram API online"
+   - https://rapidapi.com/social-api1-instagram/api/instagram-scraper-api2/playground/apiendpoint_59cb4f4c-55c0-41b5-807d-e39967e66c1d
+3. [Reddit Scraper] - "Reddit Unofficial API is a fast, reliable and comprehensive tool for extracting data from Reddit."
+   - https://rapidapi.com/fkal094tiokg09w3vi095i/api/reddit-scraper2/playground/apiendpoint_6dae487b-0fef-4350-9017-c323a57ad278
+4. [TikTok API] - "Lightweight and complete TikTok API"
+   - https://rapidapi.com/Lundehund/api/tiktok-api23/playground/apiendpoint_c1dca90d-a452-4ec8-9ac8-5d6fe43c9d62
 
 ## Team Members and Roles
 
 - Pierre LOPEZ
 - Thailer Simmons
 - Abel Castilla
+- Trent Kauflin
