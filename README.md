@@ -3,15 +3,16 @@
 
 ## Project Overview
 
-This application is an open-source intelligent system that features a graphical user interface built with Kivy and integrates multiple data sources for comprehensive data analysis.
+This application is an open-source intelligent system that features a graphical user interface built with Streamlit and integrates multiple data sources for comprehensive data analysis.
 
 ## Features
 
-- User-friendly GUI built with Kivy
+- User-friendly GUI built with Streamlit
 - Integration with multiple data sources/APIs
+- 4 Unique Custom Tailored Social Media Scrapers
 - Real-time data processing and analysis
 - Interactive data visualization
-- Export functionality for analysis results
+- AI Powered analysis 
 
 ## Technical Requirements
 
@@ -21,6 +22,7 @@ This application is an open-source intelligent system that features a graphical 
 - requests
 - matplotlib
 - numpy
+- Ollama LLM
 
 ## Installation
 
