@@ -1,5 +1,5 @@
 
-# Intelligent Data Analysis Application
+# Intelligent Data Analysis Application "Media Flayer"
 
 ## Project Overview
 
